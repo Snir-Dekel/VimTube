@@ -49,9 +49,6 @@
 - single quote and 'D' key for 0.5X faster
 - semicolon and 'A' key for 0.5X slower
 - 'S' key for fast forward 10 seconds
-
-
-
 - 'W' key for rewind 5 seconds
 - 'Q' key to save video timestamp
 - 'E' key to watch saved video timestamp
