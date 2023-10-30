@@ -64,7 +64,7 @@ images(blue logo, favicon), GIF
 Click The Container To Show/Hide Timestamps ![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
 
-# All Keybinds![favicon](https://github.com/Snir-Dekel/VimTube/assets/66528853/bb381504-b1d8-4362-b6e0-f307a641e9ff)
+# All Keybinds
 
 ## Keyboard keybinds without modifiers
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
