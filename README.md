@@ -15,7 +15,7 @@
 - [All Keybinds](#All-Keybinds)
 
 <a name="Installing"></a>
-## Installing-[VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
+## Install From [VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
 
 
 <a name="General-Extension-Look"></a>
