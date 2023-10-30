@@ -34,7 +34,7 @@
 
 
 ## Video PlayBack Speed Control 
-### Press `A` And `D` To Increase of Decrease The Playback Speed By 0.5X
+### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
 ## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
 
@@ -54,6 +54,11 @@
 - CTRL and right/left arrow move to next/previous saved timestamps
 
 # UI
+
+<img align="right" height="auto" width="140" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/867b218e-e612-4365-bd2a-a57f66053ac9" />
+
+- ## Replaced YouTube Logo With VimTube Logo
+
 
 <img align="right" height="auto" width="250" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/8d34b5d6-114b-4f28-b688-10522fa0c8fd" />
 
