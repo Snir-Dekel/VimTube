@@ -8,9 +8,8 @@
 
 # Installing-[VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
 
-# Extension Look
+# General Extension Look
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
-
 
 ---
 ## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
