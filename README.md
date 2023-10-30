@@ -1,5 +1,6 @@
 # VimTube
 Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse
+
 ---
 <br>
 
