@@ -21,7 +21,7 @@
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c58aa837-e31e-42d8-bed1-d2e8f7ce25ee)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/5623643b-3747-4176-bfbe-6e4b5ca3ef63)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/76629ef9-17f9-4e4e-a9dd-5eece25cc8ad)
-<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/f1025671-71c5-49de-8f54-bf4e18b8ef1b'/>
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/f1025671-71c5-49de-8f54-bf4e18b8ef1b'></video>
 
 ---
 ## Timestamps-Add Timestamps With Commnet 
@@ -29,14 +29,14 @@
 - The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
 ## Examples
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
-<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/578a83dc-52e9-459e-8a1a-3df60d0047a5'/>
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/578a83dc-52e9-459e-8a1a-3df60d0047a5'></video>
 
 
 
 ## Video PlayBack Speed Control 
 ### Press `A` And `D` To Increase of Decrease The Playback Speed By 0.5X
 ## Example
-<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'/>
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
 
 
 
@@ -52,17 +52,34 @@
 - 'Q' key to save video timestamp
 - 'E' key to watch saved video timestamp
 - CTRL and right/left arrow move to next/previous saved timestamps
+
 # UI
-favicon change ![favicon](https://github.com/Snir-Dekel/VimTube/assets/66528853/8d34b5d6-114b-4f28-b688-10522fa0c8fd)
-no play/pause icon on video
-all red buttons changed to blue
-total video duration
-images(blue logo, favicon), GIF
+
+<img align="right" height="auto" width="250" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/8d34b5d6-114b-4f28-b688-10522fa0c8fd" />
+
+- ## VimTube Tab Favicon
+
+<img align="right" height="45" width="45" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/925388d7-afa6-4293-a3e3-29587f24266d" /> 
+<img align="right" height="45" width="45" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/d5feab96-634a-44ed-a21c-fac564df766e" />
+
+- ## Faster Response And Animation Play/Pause Video-Before And After
+
+<img style="margin-top: 1rem" align="right" height="auto" width="500" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/51fb5804-5813-46b6-8069-4a017fe74201" />
+
+- ## Blue Buttons
+
+<img style="margin-top: 1rem" align="right" height="auto" width="250" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/bc10e029-24ff-4ec0-b900-b49156969d7d" />
+
+- ## Total Video Duration
 
 
 
-Click The Container To Show/Hide Timestamps ![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
-Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
+
+
+
+- ## Click The Container To Show/Hide Timestamps
+- ## Right Click The Container (Blue Area) To Switch Between [Go To]/[Edit Comment] Timestamp
+![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
 
 # All Keybinds
 
