@@ -54,8 +54,6 @@
 - CTRL and right/left arrow move to next/previous saved timestamps
 # UI
 favicon change
-blue youtube logo-OK
-Rounded video-Cancel
 no play/pause icon on video
 all red buttons changed to blue
 total video duration
