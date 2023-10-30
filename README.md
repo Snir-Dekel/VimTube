@@ -21,13 +21,33 @@
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c58aa837-e31e-42d8-bed1-d2e8f7ce25ee)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/5623643b-3747-4176-bfbe-6e4b5ca3ef63)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/76629ef9-17f9-4e4e-a9dd-5eece25cc8ad)
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/f1025671-71c5-49de-8f54-bf4e18b8ef1b'/>
 
 ---
 ## Timestamps-Add Timestamps With Commnet 
-### Press 'Q' To Create A TimeStamp
+### Press `Q` To Create A TimeStamp
 - The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
-## Example
+## Examples
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/578a83dc-52e9-459e-8a1a-3df60d0047a5'/>
+
+
+
+
+
+
+## Video PlayBack Speed Control 
+### Press `A` And `D` To Increase of Decrease The Playback Speed By 0.5X
+## Example
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'/>
+
+
+
+
+
+
+
+
 
 
 
@@ -40,6 +60,10 @@
 - single quote and 'D' key for 0.5X faster
 - semicolon and 'A' key for 0.5X slower
 - 'S' key for fast forward 10 seconds
+
+https://github.com/Snir-Dekel/VimTube/assets/66528853/ed7b543b-031c-46aa-934b-41df3957d8cf
+
+
 - 'W' key for rewind 5 seconds
 - 'Q' key to save video timestamp
 - 'E' key to watch saved video timestamp
