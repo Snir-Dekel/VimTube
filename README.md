@@ -8,7 +8,7 @@
 
 ---
 
-# [Installing-VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
+# [VimTube Releases-Installing](https://github.com/Snir-Dekel/VimTube/releases)
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
 ![keyboard map shift](https://github.com/Snir-Dekel/VimTube/assets/66528853/ddf6b5a8-003c-4f9a-92e0-c8c9188f67fe)
 ![keyboard map control](https://github.com/Snir-Dekel/VimTube/assets/66528853/542dcabc-a16d-4725-b6e5-4a673086d628)
