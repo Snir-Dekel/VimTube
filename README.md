@@ -14,6 +14,14 @@
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
 
+![badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![badge](https://img.shields.io/github/repo-size/Snir-Dekel/VimTube)
+![badge](https://img.shields.io/github/downloads/Snir-Dekel/VimTube/total)
+
+
+
+
+
 <a name="Installing"></a>
 ## Install From [VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
 
