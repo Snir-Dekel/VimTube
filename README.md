@@ -30,8 +30,6 @@
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
 
 
-[All KeyBinds](#Keybinds)  
-
 
 
 
@@ -60,7 +58,6 @@ Click The Container To Show/Hide Timestamps [ADD SCREENSHOT HERE]
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
 
 # All Keybinds
-<a name="Keybinds"></a>
 ## Keyboard keybinds without modifiers
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
 ## Keyboard keybinds with SHIFT modifier
