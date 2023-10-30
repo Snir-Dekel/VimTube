@@ -33,22 +33,10 @@
 
 
 
-
-
-
 ## Video PlayBack Speed Control 
 ### Press `A` And `D` To Increase of Decrease The Playback Speed By 0.5X
 ## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'/>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -77,7 +65,8 @@ total video duration
 images(blue logo, favicon), GIF
 
 
-Click The Container To Show/Hide Timestamps [ADD SCREENSHOT HERE]
+
+Click The Container To Show/Hide Timestamps ![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
 
 # All Keybinds
