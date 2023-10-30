@@ -11,7 +11,6 @@
 # Extension Look
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
 
-[All Keybinds](#Keybinds)
 
 ---
 ## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
@@ -37,6 +36,7 @@
 ## Video PlayBack Speed Control 
 ### Press `A` And `D` To Increase of Decrease The Playback Speed By 0.5X
 ## Example
+
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'/>
 
 
@@ -71,7 +71,6 @@ Click The Container To Show/Hide Timestamps ![secondary blue background](https:/
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
 
 # All Keybinds
-<a name="Keybinds"></a>
 ## Keyboard keybinds without modifiers
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
 ## Keyboard keybinds with SHIFT modifier
