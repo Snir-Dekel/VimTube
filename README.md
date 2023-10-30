@@ -11,7 +11,7 @@
 # Extension Look
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
 
-![All Keybinds](#Keybinds)
+[All Keybinds](#Keybinds)
 
 ---
 ## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
