@@ -8,8 +8,7 @@
 
 - [Installing](#Installing)
 - [General Extension Looks](#General-Extension-Look)
-- [And a table of contents](#and-a-table-of-contents)
-- [Heatmap](#and-a-table-of-contents)
+- [Heatmap](#Heatmap)
 - [Timestamps](#Timestamps)
 - [Video PlayBack Speed Control](#speed-control)
 - [UI Changes](#ui)
