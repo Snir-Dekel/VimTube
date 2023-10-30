@@ -53,18 +53,6 @@
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
 
 
-
-
-# features:
-
-- single quote and 'D' key for 0.5X faster
-- semicolon and 'A' key for 0.5X slower
-- 'S' key for fast forward 10 seconds
-- 'W' key for rewind 5 seconds
-- 'Q' key to save video timestamp
-- 'E' key to watch saved video timestamp
-- CTRL and right/left arrow move to next/previous saved timestamps
-
 <a name="ui"></a>
 # UI
 
