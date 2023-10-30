@@ -5,7 +5,7 @@
 ![VimTube Logo](https://github.com/Snir-Dekel/VimTube/assets/66528853/a7c3107f-426a-47cc-a97f-bd5e5c3bd97d)
 
 ---
-# Contents
+## Contents
 - [Installing](#Installing)
 - [General Extension Looks](#General-Extension-Look)
 - [Heatmap](#Heatmap)
