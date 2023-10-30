@@ -10,7 +10,18 @@
 
 # Installing-[VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
 
+# Extension Look
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
+
+## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
+### Eesy Return To Important Parts In Videos
+- When watching a long video, important or critical parts will be more reddish color if watched more than once, so you can go back to them later and also know where the interesting and essential parts are located in the video.
+## Examples 
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8266948-d5e2-46f0-ba15-11bf5c42c701)
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c58aa837-e31e-42d8-bed1-d2e8f7ce25ee)
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/5623643b-3747-4176-bfbe-6e4b5ca3ef63)
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/76629ef9-17f9-4e4e-a9dd-5eece25cc8ad)
+
 
 
 # features:
@@ -36,8 +47,7 @@ images(blue logo, favicon), GIF
 
 Click The Container To Show/Hide Timestamps [ADD SCREENSHOT HERE]
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
-Heatmap USE CASE-watching 1 hour video with important parts, where these parts will be red since were watched more than once, you can go back to them later
-USE CASE-get insights about your watching behavior pattern and characteristic
+
 
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
 ![keyboard map shift](https://github.com/Snir-Dekel/VimTube/assets/66528853/ddf6b5a8-003c-4f9a-92e0-c8c9188f67fe)
