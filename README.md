@@ -1,10 +1,16 @@
 # VimTube
 Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse
+---
 <br>
 
 ![VimTube Logo](https://github.com/Snir-Dekel/VimTube/assets/66528853/a7c3107f-426a-47cc-a97f-bd5e5c3bd97d)
 
 ---
+
+# [Installing-VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
+![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
+![keyboard map shift](https://github.com/Snir-Dekel/VimTube/assets/66528853/ddf6b5a8-003c-4f9a-92e0-c8c9188f67fe)
+![keyboard map control](https://github.com/Snir-Dekel/VimTube/assets/66528853/542dcabc-a16d-4725-b6e5-4a673086d628)
 
 # features:
 faster youtube play click
@@ -50,5 +56,6 @@ USE CASE-get insights about your watching behavior pattern and characteristic
 
 
 ------------
+
 
 
