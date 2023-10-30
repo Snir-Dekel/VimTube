@@ -1,4 +1,5 @@
-# VimTube
+# VimTube ![badge](https://img.shields.io/github/downloads/Snir-Dekel/VimTube/total) [![badge](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Snir-Dekel/VimTube/blob/main/LICENSE) [![badge](https://img.shields.io/badge/install-here-brightgreen)](https://github.com/Snir-Dekel/VimTube/releases)
+
 ## Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse
 <br>
 
@@ -13,10 +14,6 @@
 - [Video PlayBack Speed Control](#speed-control)
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
-
-![badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![badge](https://img.shields.io/github/repo-size/Snir-Dekel/VimTube)
-![badge](https://img.shields.io/github/downloads/Snir-Dekel/VimTube/total)
 
 
 
