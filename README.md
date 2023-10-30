@@ -61,7 +61,6 @@
 - semicolon and 'A' key for 0.5X slower
 - 'S' key for fast forward 10 seconds
 
-https://github.com/Snir-Dekel/VimTube/assets/66528853/ed7b543b-031c-46aa-934b-41df3957d8cf
 
 
 - 'W' key for rewind 5 seconds
