@@ -32,8 +32,10 @@
 
 
 
-## Video PlayBack Speed Control 
-### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
+# Video PlayBack Speed Control 
+- #### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
+- #### Press `W` To Seek Forward 5 Seconds And `S` To Seek Backward 10 Seconds
+- #### Press `E` To Seek To The Last Timestamp
 ## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
 
@@ -41,9 +43,7 @@
 
 
 # features:
-- faster youtube play click
-- faster animation play pause
-- rate indicator on video
+
 - single quote and 'D' key for 0.5X faster
 - semicolon and 'A' key for 0.5X slower
 - 'S' key for fast forward 10 seconds
