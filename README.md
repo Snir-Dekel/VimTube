@@ -15,11 +15,11 @@
 - [All Keybinds](#All-Keybinds)
 
 <a name="Installing"></a>
-# Installing-[VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
+## Installing-[VimTube Releases](https://github.com/Snir-Dekel/VimTube/releases)
 
 
 <a name="General-Extension-Look"></a>
-# General Extension Look
+## General Extension Look
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
 
 ---
