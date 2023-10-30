@@ -53,7 +53,7 @@
 - 'E' key to watch saved video timestamp
 - CTRL and right/left arrow move to next/previous saved timestamps
 # UI
-favicon change
+favicon change ![favicon](https://github.com/Snir-Dekel/VimTube/assets/66528853/8d34b5d6-114b-4f28-b688-10522fa0c8fd)
 no play/pause icon on video
 all red buttons changed to blue
 total video duration
@@ -64,7 +64,8 @@ images(blue logo, favicon), GIF
 Click The Container To Show/Hide Timestamps ![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
 Right Click The Container To Switch Between [Go To]/[Edit Comment] Timestamp
 
-# All Keybinds
+# All Keybinds![favicon](https://github.com/Snir-Dekel/VimTube/assets/66528853/bb381504-b1d8-4362-b6e0-f307a641e9ff)
+
 ## Keyboard keybinds without modifiers
 ![keyboard map](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8c29be5-7bc0-4ebe-a004-14d5c3fa2f7c)
 ## Keyboard keybinds with SHIFT modifier
