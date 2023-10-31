@@ -60,6 +60,7 @@
 ## Examples
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/578a83dc-52e9-459e-8a1a-3df60d0047a5'></video>
+<video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/1095bd34-24df-456a-89e2-ca33239ac318'></video>
 
 
 <a name="speed-control"></a>
