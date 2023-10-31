@@ -25,13 +25,23 @@
 
 <a name="General-Extension-Look"></a>
 ## General Extension Look
-![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13)
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/4bc2d171-4ae4-4271-8c73-99d63be07f06)
+
+<p float="left">
+  <img src="https://github.com/Snir-Dekel/VimTube/assets/66528853/bca61340-2891-447b-b974-305ced690c13" width="49%" />
+  <img src="https://github.com/Snir-Dekel/VimTube/assets/66528853/99d738ad-7a9b-4bc5-b6ab-f2c14c949f7b" width="49%" /> 
+</p>
+
+
 
 ---
 <a name="Heatmap"></a>
 ## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
 ### Eesy Return To Important Parts In Videos
 - When watching a long video, important or critical parts will be more reddish color if watched more than once, so you can go back to them later and also know where the interesting and essential parts are located in the video.
+- #### Press `SHIFT + D` To Toggle Show/Hide Heatmap
+- #### Press `SHIFT + R` To Reset The Heatmap
+
 ## Examples 
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8266948-d5e2-46f0-ba15-11bf5c42c701)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c58aa837-e31e-42d8-bed1-d2e8f7ce25ee)
@@ -41,9 +51,11 @@
 
 ---
 <a name="Timestamps"></a>
-## Timestamps-Add Timestamps With Commnet 
-### Press `Q` To Create A TimeStamp
-- The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
+## Timestamps-Add Timestamps With Commnet
+- #### The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
+- #### Press `Q` To Create A TimeStamp
+- #### Press `E` To Seek To The Last Timestamp
+- #### Press `SHIFT + E` To Toggle Show/Hide Timestamps
 ## Examples
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/578a83dc-52e9-459e-8a1a-3df60d0047a5'></video>
@@ -53,13 +65,13 @@
 # Video PlayBack Speed Control
 - #### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
 - #### Press `W` To Seek Forward 5 Seconds And `S` To Seek Backward 10 Seconds
-- #### Press `E` To Seek To The Last Timestamp
+- #### Press `SHIFT + A` To Go To The Most Watched Part In The Video
 ## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
 
 
 <a name="ui"></a>
-# UI
+# VimTube UI
 
 <img align="right" height="auto" width="140" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/867b218e-e612-4365-bd2a-a57f66053ac9" />
 
