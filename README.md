@@ -1,11 +1,13 @@
-# VimTube ![badge](https://img.shields.io/github/downloads/Snir-Dekel/VimTube/total) [![badge](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Snir-Dekel/VimTube/blob/main/LICENSE) [![badge](https://img.shields.io/badge/install-here-brightgreen)](https://github.com/Snir-Dekel/VimTube/releases)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=600&size=52&duration=2000&pause=3000&color=F7F7F7&center=true&vCenter=true&random=false&width=220&height=50&lines=VimTube)](https://git.io/typing-svg) ![badge](https://img.shields.io/github/downloads/Snir-Dekel/VimTube/total) [![badge](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Snir-Dekel/VimTube/blob/main/LICENSE) [![badge](https://img.shields.io/badge/install-here-brightgreen)](https://github.com/Snir-Dekel/VimTube/releases)
+
+
+
+
 
 ## Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse
 <br>
 
 ![VimTube Logo](https://github.com/Snir-Dekel/VimTube/assets/66528853/a7c3107f-426a-47cc-a97f-bd5e5c3bd97d)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=VimTube)](https://git.io/typing-svg)
 
 ---
 ## Contents
