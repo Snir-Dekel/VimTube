@@ -51,7 +51,7 @@
 
 ---
 <a name="Timestamps"></a>
-## Add Timestamps With Commnets
+## Create Timestamps With Commnets
 - #### The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
 - #### Press `Q` To Create A TimeStamp
 - #### Press `T` To Create A Continuous TimeStamp
