@@ -53,7 +53,6 @@
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/76629ef9-17f9-4e4e-a9dd-5eece25cc8ad)
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/f1025671-71c5-49de-8f54-bf4e18b8ef1b'></video>
 
----
 <a name="Timestamps"></a>
 ## Create Timestamps With Commnets
 - #### The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
