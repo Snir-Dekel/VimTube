@@ -51,9 +51,10 @@
 
 ---
 <a name="Timestamps"></a>
-## Timestamps-Add Timestamps With Commnet
+## Add Timestamps With Commnets
 - #### The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
 - #### Press `Q` To Create A TimeStamp
+- #### Press `T` To Create A Continuous TimeStamp
 - #### Press `E` To Seek To The Last Timestamp
 - #### Press `SHIFT + E` To Toggle Show/Hide Timestamps
 ## Examples
@@ -65,6 +66,7 @@
 # Video PlayBack Speed Control
 - #### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
 - #### Press `W` To Seek Forward 5 Seconds And `S` To Seek Backward 10 Seconds
+- #### Press `SHIFT + W` To Seek Forward 30 Seconds And `SHIFT + S` To Seek Backward 30 Seconds
 - #### Press `SHIFT + A` To Go To The Most Watched Part In The Video
 ## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
