@@ -15,7 +15,7 @@
 - [General Extension Looks](#General-Extension-Look)
 - [Heatmap](#Heatmap)
 - [Timestamps](#Timestamps)
-- [Video PlayBack Speed Control](#speed-control)
+- [Video PlayBack Control](#speed-control)
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
 
@@ -68,7 +68,7 @@
 
 
 <a name="speed-control"></a>
-# Video PlayBack Speed Control
+# Video PlayBack Control
 - #### Press `A` OR `D` To Increase Or Decrease The Playback Speed By 0.5X
 - #### Press `W` To Seek Forward 5 Seconds And `S` To Seek Backward 10 Seconds
 - #### Press `SHIFT + W` To Seek Forward 30 Seconds And `SHIFT + S` To Seek Backward 30 Seconds
