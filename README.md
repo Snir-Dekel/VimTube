@@ -1,6 +1,9 @@
 <div align="center">
   
+[![Typing SVG](https://github.com/Snir-Dekel/VimTube/assets/66528853/1768df0e-9f5f-411a-b8aa-457efba7b37a)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=600&size=72&duration=2000&pause=3000&color=027FF7FF&center=true&vCenter=true&random=false&width=280&height=65&lines=VimTube)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
