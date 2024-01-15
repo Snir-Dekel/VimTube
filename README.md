@@ -67,8 +67,9 @@
 ## Create Timestamps With Commnets
 - #### The Border Of The Timestamps Change Color In Real Time According To The Color Of The Heatmap
 - #### Press `Q` To Create A TimeStamp
-- #### Press `T` To Create A Continuous TimeStamp
 - #### Press `E` To Seek To The Last Timestamp
+- #### Press `T` To Create A Continuous TimeStamp
+- #### Press `SHIFT + T` To Create A Skip Continuous TimeStamp
 - #### Press `SHIFT + E` To Toggle Show/Hide Timestamps
 ## Examples
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/8dfa91f5-9269-41f4-8dc8-bdcebc9d5f17)
