@@ -119,7 +119,6 @@
 
 
 
-- ## Click The Container To Show/Hide Timestamps
 - ## Right Click The Container (Blue Area) To Switch Between [Go To]/[Edit Comment] Timestamp
 ![secondary blue background](https://github.com/Snir-Dekel/VimTube/assets/66528853/e4283ad4-31bb-4c07-9a2e-b7d54aa89e7c)
 
