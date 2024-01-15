@@ -92,7 +92,7 @@
 <a name="ui"></a>
 # VimTube UI
 
-<img align="right" height="auto" width="140" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/867b218e-e612-4365-bd2a-a57f66053ac9" />
+<img align="right" height="auto" width="140" src="https://github.com/Snir-Dekel/VimTube/assets/66528853/cd487bf5-5300-479a-9326-de3a9adf9b01" />
 
 - ## Replaced YouTube Logo With VimTube Logo
 
