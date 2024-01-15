@@ -94,9 +94,9 @@
 - #### Press `CTRL + SHIFT + Q` To Toggle Focus Editor
 - #### Press `SHIFT + H` To Show/Hide Editor
 
-| Alt | A | S | D | F | X |
-| --- | --- | | --- | | --- | --- | --- |
-| + | text | text | text | text| text |
+| Alt + `Key` | A | S | D | F | X |
+| --- | --- | --- | --- | --- | --- |
+| Action | Level 1 Heading | Level 2 Heading | Horizontal Line | Numbered list| Bulleted list |
 
 ![Text Editor](https://github.com/Snir-Dekel/VimTube/assets/66528853/8972d11c-f4e8-48f4-a0fa-3f3b1c381881)
 
