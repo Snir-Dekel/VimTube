@@ -29,7 +29,7 @@
 - [Rich Text Editor](#text-editor)
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
-
+- [New Version-2.0](#version-2)
 
 
 
@@ -144,10 +144,41 @@
 ## Keyboard keybinds with CTRL modifier
 ![keyboard map control](https://github.com/Snir-Dekel/VimTube/assets/66528853/542dcabc-a16d-4725-b6e5-4a673086d628)
 
-
-
-
 ------------
 
+# New Version-2.0
+<a name="version-2"></a>
+## Added The Option To Save Data💾 For  Heatmap & Timestamps & New Editor Text🌟
+## Press ![Save](https://github.com/Snir-Dekel/VimTube/assets/66528853/32031d98-47a6-44a5-97bd-14b291c9bbff) Or `CTRL + S` To Auto Save ALL DATA🎉
+## Added New Animations For Both Timestamps And Text Editor🤩
+https://github.com/Snir-Dekel/VimTube/assets/66528853/a17edf8d-0d2f-47ac-b390-122e8ea6b145
+
+## New Rich Text Editor ✍🏻
+![Text Editor](https://github.com/Snir-Dekel/VimTube/assets/66528853/8972d11c-f4e8-48f4-a0fa-3f3b1c381881)
+
+- #### Press `CTRL + SHIFT + Q` To Toggle Focus Editor🧐
+- #### Press `SHIFT + H` To Show/Hide Editor👁️
+- #### Long Right Click The Save Button To Delete☢️ All Current Video Data🗑️
+### Rich Editor Formatting Shortcuts
+| Shortcut  | `ALT + A` | `ALT + S` | `ALT + D` | `ALT + F` | `ALT + X` |
+| --- | --- | --- | --- | --- | --- |
+| Formatting | Level 1 Heading | Level 2 Heading | Horizontal Line | Numbered list| Bulleted list |
+---
+
+## Added Shortcuts🆕
+| Shortcut |  `SHIFT + /` |  `SHIFT + F` | `SHIFT + T` | `SHIFT + G` |
+| --- | --- | --- | --- | --- |
+| Action| Show/Hide Shortcuts Reference |  Show/Hide Video Transcript | Skip Continuous Timestamp |  Disable/Enable Shortcuts |
+
+- # Performance Improved 🚀📈
+- ### Regex Is Used For Compression To Convert From Long Array Of 0s Heatmap `[0,0,0,0,0]` => `[0X5]` For Space Reduction📉
+- # Improved Overall Stability✅
+- ### Fixed Heatmap Position During Video Scrubbing🛠
+- ### Supporting Adding Timestamps During Video Scrubbing🛠
+- ### Supporting Longer Videos 24 Hours+🛠
+- ### General Bug Fixes🐞
+
+##  New Overflow Opacity Transition✨
+![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/91831100-fd46-41a0-8237-d92567b79584)
 
 
