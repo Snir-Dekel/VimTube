@@ -28,7 +28,6 @@
 - [Heatmap](#Heatmap)
 - [Timestamps](#Timestamps)
 - [Video PlayBack Control](#speed-control)
-- [Rich Text Editor](#text-editor)
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
 - [New Version-2.0](#version-2)
@@ -88,21 +87,7 @@
 - #### Press `W` To Seek Forward 5 Seconds And `S` To Seek Backward 10 Seconds
 - #### Press `SHIFT + W` To Seek Forward 30 Seconds And `SHIFT + S` To Seek Backward 30 Seconds
 - #### Press `SHIFT + A` To Go To The Most Watched Part In The Video
-## Example
 <video src='https://github.com/Snir-Dekel/VimTube/assets/66528853/02118215-c334-49a4-9cf2-26b7ee1f5dab'></video>
-
-<a name="text-editor"></a>
-# Rich Text Editor
-- #### Press `CTRL + SHIFT + Q` To Toggle Focus Editor
-- #### Press `SHIFT + H` To Show/Hide Editor
-
-| Alt + `Key` | A | S | D | F | X |
-| --- | --- | --- | --- | --- | --- |
-| Action | Level 1 Heading | Level 2 Heading | Horizontal Line | Numbered list| Bulleted list |
-
-![Text Editor](https://github.com/Snir-Dekel/VimTube/assets/66528853/8972d11c-f4e8-48f4-a0fa-3f3b1c381881)
-
-
 
 <a name="ui"></a>
 # VimTube UI
