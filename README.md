@@ -16,7 +16,7 @@
 
 
 
-## Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse
+## Google Chrome Extension Inspired By [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) To Extend The Functionality Of YouTube And To Control Video Playback Without Using The Mouse🖱️🙅‍♂
 <br>
 
 ![VimTube Logo](https://github.com/Snir-Dekel/VimTube/assets/66528853/a7c3107f-426a-47cc-a97f-bd5e5c3bd97d)
