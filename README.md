@@ -23,6 +23,7 @@
 
 ---
 ## Contents
+- ### _[New Version-2.0](#version-2)_
 - [Installing](#Installing)
 - [General Extension Looks](#General-Extension-Look)
 - [Heatmap](#Heatmap)
@@ -30,7 +31,7 @@
 - [Video PlayBack Control](#speed-control)
 - [UI Changes](#ui)
 - [All Keybinds](#All-Keybinds)
-- [New Version-2.0](#version-2)
+
 
 
 
