@@ -55,12 +55,16 @@
 ---
 <a name="Heatmap"></a>
 ## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
-### Eesy Return To Important Parts In Videos
-- When watching a long video, important or critical parts will be more reddish color if watched more than once, so you can go back to them later and also know where the interesting and essential parts are located in the video.
+### Eesy Return To Important Parts In Videos And Remember Which Parts You Already Watched
+- Important or critical parts will be more reddish color if watched more than once, so you can go back to them later and also know where the interesting/essential parts are located in the video.
 - #### Press `SHIFT + D` To Toggle Show/Hide Heatmap
 - #### Press `SHIFT + R` To Reset The Heatmap
 
+<div align="center">
+  
 ## Examples 
+</div>
+
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c8266948-d5e2-46f0-ba15-11bf5c42c701)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/c58aa837-e31e-42d8-bed1-d2e8f7ce25ee)
 ![image](https://github.com/Snir-Dekel/VimTube/assets/66528853/5623643b-3747-4176-bfbe-6e4b5ca3ef63)
