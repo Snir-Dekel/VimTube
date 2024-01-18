@@ -54,8 +54,8 @@
 
 ---
 <a name="Heatmap"></a>
-## Heatmap-Get Insights About Your Personal Watching Pattern And Behavior Characteristics
-### Eesy Return To Important Parts In Videos And Remember Which Parts You Already Watched
+## Heatmap-Easily Return To Important Parts In Videos And Remember Which Parts You Already Watched 
+### Get Insights About Your Personal Watching Pattern And Behavior Characteristics
 - Important or critical parts will be more reddish color if watched more than once, so you can go back to them later and also know where the interesting/essential parts are located in the video.
 - #### Press `SHIFT + D` To Toggle Show/Hide Heatmap
 - #### Press `SHIFT + R` To Reset The Heatmap
